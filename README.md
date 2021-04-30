@@ -6,7 +6,7 @@
 - 📌 https://mathewthomas.dev
 
 
-<img src="https://github.com/Matt-T-Git/Matt-T-Git/blob/main/objectivec-plain.svg" width="100" height="100"> <img src="https://github.com/Matt-T-Git/Matt-T-Git/blob/main/swift-original.svg" width="100" height="100"> <img src="https://github.com/Matt-T-Git/Matt-T-Git/blob/main/java-original.svg" width="100" height="100"> <img src="https://github.com/Matt-T-Git/Matt-T-Git/blob/main/kotlin-original.svg" width="100" height="100">
+<img src="https://github.com/Matt-T-Git/Matt-T-Git/blob/main/objectivec-plain.svg" width="70" height="70"> <img src="https://github.com/Matt-T-Git/Matt-T-Git/blob/main/swift-original.svg" width="70" height="70"> <img src="https://github.com/Matt-T-Git/Matt-T-Git/blob/main/java-original.svg" width="70" height="70"> <img src="https://github.com/Matt-T-Git/Matt-T-Git/blob/main/kotlin-original.svg" width="70" height="70">
 
 
 
