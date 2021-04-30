@@ -6,12 +6,10 @@
 - 📌 https://mathewthomas.dev
 
 
-<img src="https://github.com/Matt-T-Git/Matt-T-Git/blob/main/objectivec-plain.svg" width="70" height="70"> <img src="https://github.com/Matt-T-Git/Matt-T-Git/blob/main/swift-original.svg" width="70" height="70"> <img src="https://github.com/Matt-T-Git/Matt-T-Git/blob/main/java-original.svg" width="70" height="70"> <img src="https://github.com/Matt-T-Git/Matt-T-Git/blob/main/kotlin-original.svg" width="70" height="70">
-
-
-
+<img src="https://github.com/Matt-T-Git/Matt-T-Git/blob/main/apple-original.svg" width="70" height="70"> <img src="https://github.com/Matt-T-Git/Matt-T-Git/blob/main/objectivec-plain.svg" width="70" height="70"> <img src="https://github.com/Matt-T-Git/Matt-T-Git/blob/main/swift-original.svg" width="70" height="70"> <img src="https://github.com/Matt-T-Git/Matt-T-Git/blob/main/android-original.svg" width="70" height="70"> <img src="https://github.com/Matt-T-Git/Matt-T-Git/blob/main/java-original.svg" width="70" height="70"> <img src="https://github.com/Matt-T-Git/Matt-T-Git/blob/main/kotlin-original.svg" width="70" height="70"> <img src="https://github.com/Matt-T-Git/Matt-T-Git/blob/main/git-original.svg" width="70" height="70"> <img src="https://github.com/Matt-T-Git/Matt-T-Git/blob/main/github-original.svg" width="70" height="70">
 
 <!---
 Matt-T-Git/Matt-T-Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
