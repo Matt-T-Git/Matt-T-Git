@@ -1,7 +1,7 @@
 ## Matt Thomas
 
 - 👋 Hi, I’m Matt Thomas. I'm a mobile developer based out of South Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿
-- 🛠 I’m currently employed as a Senior Mobile Developer at MuchBetter Ltd
+- 🛠 I’m currently employed as a iOS Developer at Candyspace, working on the ITV Hub iOS and tvOS apps.
 - 💻 Experienced in Objective C, Swift, Java & Kotlin
 - 💡 I’m currently learning Flutter / Dart
 - 📧 How to reach me ... mathewthomasnewport@outlook.com
